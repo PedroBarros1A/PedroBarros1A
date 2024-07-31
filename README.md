@@ -1,16 +1,20 @@
-## Hi there 👋
+## Bem-vindo!⤵️
 
-<!--
-**PedroBarros1A/PedroBarros1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é: Pedro Henrique Barros
+-Estou estudando na Alura
+-Estou me desenvolvendo no JavaScript
+-Utilizo esse espaço para organizar meus projetos
+Você pode entrar em contato comigo📧
 
-Here are some ideas to get you started:
+00001125284328sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+  
+
+
+
